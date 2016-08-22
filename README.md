@@ -1,5 +1,5 @@
 # Pong-Project
-Windows Game Programming
+Class: Windows Game Programming
 
 Author: Jose Rivera
 
