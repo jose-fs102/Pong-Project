@@ -695,7 +695,7 @@ HRESULT Game::CreateGraphics(HWND hWnd)
 	}
 
 	// Load WAV Files
-	hr = music.LoadWave(L"Audio\\Modify.wav");
+	hr = music.LoadWave(L"Modify.wav");
 	if (FAILED(hr))
 	{
 		MessageBox(HWND_DESKTOP, _T("ERROR: Failed to load Modify.wav."),
